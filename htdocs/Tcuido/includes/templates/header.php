@@ -46,7 +46,7 @@
                     <a href="#"><i class="fab fa-instagram"></i></a>
                     <a href="#"><i class="fab fa-whatsapp"></i>  981 67 30 61</a>
                 </nav>
-                <div class="informacion-evento">
+                <div class="informacion-centro">
                     <div class="clearfix">
                     </div>
                     <h1 class="nombre-sitio">Centro de estética en Betanzos</h1>
