@@ -1,0 +1,75 @@
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Masaje Relajante', 'Individual', '50m', '49', 'Clásico, Suave y Equilibrado.' ,'1');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Masaje Descontracturante', 'Individual', '50m', '49','Energético, Fuerte y Recuperador.', '1');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Masaje Espalda', 'Individual', '25m', '35', 'ocalizado, Personalizado por zonas.' ,'1');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Masaje Thai', 'Pareja', '50m', '49', 'Único y Legendario.' ,'1');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Masaje Shiatsu Japonés', 'Individual', '30m', '48',' Exótico, Oriental y Diferente.' ,'1');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Reflexología Thai', 'Pareja', '60', '49', 'Milenario, Energético y Curativo.' ,'1');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Masaje Piedras Volcánicas', 'Individual', '50m', '49', 'Masaje Relajante, Descontracturante y Equilibrante.' ,'1');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Masaje Cañas de Bambú & Chocolate', 'Pareja', '40m', '41', 'Estimulante, Hidratante  y Fuerte.' ,'1');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Masaje Balinés con Pindas & Coco', 'Pareja', '35m', '49', 'Exótico, Aromático y Relajante.' ,'1');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Masaje Kobido', 'Individual', '60m', '37', '“Lifting facial oriental” Reafirmante, Hidratante.' ,'1');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Masaje Embarazadas', 'Individual', '30m', '49', 'Masaje Relajante, Reconfortante y Suave.' ,'1');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Masaje Piernas Cansadas', 'Individual', '20m', '35', 'Refrescante, Drenante y Vital.' ,'1');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Bono de masajes del mundo', 'Pareja', '60m', '145', 'Masajes a la carta.' ,'1');
+
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Ritual de Belleza', 'Individual', '75m', '79', 'Peeling con hidratación corporal & Limpieza Cutis Profunda' ,'2');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Ritual For Men Anti-estrés', 'Individual', '50m', '49', 'Facial For Men & Masaje anti- estrés','2');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Ritual Chocolaterapia', 'Individual', '50m', '67', 'Peeling Corporal  & Envoltura Chocolate & Masaje Fondant' ,'2');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Ritual Ayurvédico', 'Pareja', '80m', '85', 'Masaje Corporal de pies a cabeza','2');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Ritual Monoï de Tahití', 'Individual', '50m', '49', 'Gommage con Hidratación y  Masaje corporal ' ,'2');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Ritual Sublime Hanakasumi Japonés', 'Pareja', '80m', '89', 'Gommage con Hidratación, Masaje corporal y Masaje kobido Japones' ,'2');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Ritual Peregrino “Pilgrim”', 'Pareja', '50m', '49', 'Baño de Pies & Masaje Piernas & Masaje Espalda' ,'2');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Ritual Romántico', 'Pareja', '75m', '105', 'Masaje & Spa Romántico con Bañera Oro y Cava' ,'2');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Ritual Sublime Oasis de Serenidada', 'Pareja', '90m', '105', 'Tratamiento Facial & Peeling Corporal & Masaje Corporal de Belleza y Relajación' ,'2');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Ritual Esencias de Tailandia 4 Manos', 'Individual', '80m', '125','Masaje realizado por 2 Terapeutas','2');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Ritual Sublime Diamond Deluxe', 'Individual', '1200m', '149', 'Tratamiento esplendor de Belleza y Rejuvenecimiento Facial, Peeling Corporal & Masaje Multisensorial culturas del mundo' ,'2');
+
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Limpieza Facial “LA CURA”', 'Bono 4 sesiones', '50m', '239', '“Una excepcional CURA” de belleza para las pieles más necesitadas.' ,'3');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Masaje Kobido', 'Individual', '25m', '37', '“Lifting facial oriental” Reafirmante, Hidratante.' ,'3');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Facial “The Therapy”', 'Bono 5 sesiones', '50m', '75', 'Limpieza facial con ácido kójico.' ,'3');
+INSERT INTO `tcuido`.`servicios` (`servicio_id`, `nombre_servicio`, `tipo_servicio`, `duracion_servicio`, `precio_servicio`, `descripcion`, `id_cat_servicio`) VALUES (NULL, 'Facial Anti Manchas', 'Bono 5 sesiones', '50m', '75', 'Tratamiento despigmentante y aclarante integral.' ,'3');
+
+
+
+
+
+INSERT INTO `tcuido`.`estetica` (`estetica_id`, `logo_estetica` , `nombre_estetica`, `descripcion`) VALUES (NULL, 'img/esteticafacial.png', 'Estética Facial', 'Muéstrale al mundo tu mejor cara gracias a nuestros tratamientos estéticos faciales. Limpieza de cutis punta de diamante, tratamiento reafirmante, antiarrugas, anti edad… ¡Parecerás mucho más joven!');
+INSERT INTO `tcuido`.`estetica` (`estetica_id`, `logo_estetica` , `nombre_estetica`, `descripcion`) VALUES (NULL, 'img/tratamientoestetico.png', 'Tratamientos Esteticos', 'No hay que pasar por quirófano para ser más joven. Aquí tenemos los últimos tratamientos médico-estéticos. Borrar cicatrices y arrugas, eliminar manchas o acabar con el acné son parte de nuestros servicios.');
+INSERT INTO `tcuido`.`estetica` (`estetica_id`, `logo_estetica` , `nombre_estetica`, `descripcion`) VALUES (NULL, 'img/tratamientopestana.png', 'Tratamiento de pestañas', 'Las pestañas son el marco natural de nuestros ojos. Cualquier cambio que hagamos sobre ellas puede transformar tu rostro por completo. Consigue una mirada magnética con nuestros tratamientos de pestañas.');
+INSERT INTO `tcuido`.`estetica` (`estetica_id`, `logo_estetica` , `nombre_estetica`, `descripcion`) VALUES (NULL, 'img/esteticacorporal.png', 'Estética corporal', 'Contamos con una amplia variedad de tratamientos que cuidan todos los aspectos de tu figura, desde eliminar la celulitis y esas antiestéticas estrías hasta cuidar tus uñas con nuestros servicios de manicura y pedicura.');
+INSERT INTO `tcuido`.`estetica` (`estetica_id`, `logo_estetica` , `nombre_estetica`, `descripcion`) VALUES (NULL, 'img/depilacion.png', 'Depilación', '¿Quieres despedirte para siempre de ese molesto vello corporal? Ahora puedes conseguirlo con la depilación. En Lola Aranda utilizamos las últimas tecnologías láser para mantener tu cuerpo libre de pelo.');
+INSERT INTO `tcuido`.`estetica` (`estetica_id`, `logo_estetica` , `nombre_estetica`, `descripcion`) VALUES (NULL, 'img/beautyparty.png', 'Beauty party', 'Son el último grito en despedidas de soltera en todo el mundo. Una fiesta donde disfrutar con tus amigas mientras probáis los mejores tratamientos de belleza y bienestar. Todo acompañado de bebidas, aperitivo y dulces.');
+INSERT INTO `tcuido`.`estetica` (`estetica_id`, `logo_estetica` , `nombre_estetica`, `descripcion`) VALUES (NULL, 'img/maquillaje.png', 'Maquillaje', '¿Tienes que ponerte guapa para una ocasión especial? No dejes nada azar y ponte en manos de auténticos profesionales del make up. Tenemos los mejores trucos de maquillaje para conseguir resultados increíbles.');
+INSERT INTO `tcuido`.`estetica` (`estetica_id`, `logo_estetica` , `nombre_estetica`, `descripcion`) VALUES (NULL, 'img/promociones.png', 'Promociones', 'En T-cuido siempre encontrarás las mejores promociones en productos y servicios de estética. ¡Ponerse guapa nunca había sido tan económico! Ven a vernos y benefíciate de nuestras increíbles ofertas.');
+
+
+INSERT INTO `tcuido`.`peluqueria` (`peluqueria_id` , `logo_peluqueria` , `nombre_peluqueria`, `descripcion_peluqueria`) VALUES (NULL, 'img/servicio1.png', 'Color', 'Somos auténticos especialistas en color. Cambia el color de tu pelo por completo o cubre tus canas con los mejores tintes del mercado.');
+INSERT INTO `tcuido`.`peluqueria` (`peluqueria_id`, `logo_peluqueria` , `nombre_peluqueria`, `descripcion_peluqueria`) VALUES (NULL, 'img/servicio2.png', 'Mechas', 'Las mechas le dan a tu cabello un toque moderno y diferente. Consigue que tu pelo tenga el brillo y la luminosidad que estabas esperando.');
+INSERT INTO `tcuido`.`peluqueria` (`peluqueria_id`, `logo_peluqueria` , `nombre_peluqueria`, `descripcion_peluqueria`) VALUES (NULL, 'img/servicio3.png', 'Corte y peinado', 'Nuestras especialistas en peluquería saben exactamente cuál es el corte de pelo y el peinado que más te favorecen. ¡Ven a cambiar de look!');
+INSERT INTO `tcuido`.`peluqueria` (`peluqueria_id`, `logo_peluqueria` , `nombre_peluqueria`, `descripcion_peluqueria`) VALUES (NULL, 'img/servicio4.png', 'Tratamientos', '¿Te preocupa el estado de tu pelo? Tenemos los tratamientos más avanzados para que tu cabello luzca siempre en las mejores condiciones.');
+INSERT INTO `tcuido`.`peluqueria` (`peluqueria_id`, `logo_peluqueria` , `nombre_peluqueria`, `descripcion_peluqueria`) VALUES (NULL, 'img/servicio5.png', 'Beauty Party', 'Son el último grito en despedidas de soltera en todo el mundo. Una fiesta donde disfrutar con tus amigas mientras probáis los mejores tratamientos de belleza y bienestar.');
+INSERT INTO `tcuido`.`peluqueria` (`peluqueria_id`, `logo_peluqueria` , `nombre_peluqueria`, `descripcion_peluqueria`) VALUES (NULL, 'img/servicio6.png', 'Promociones', 'En T-cuido siempre encontrarás las mejores promociones en productos y servicios de peluquería. ¡Benefíciate de nuestras increíbles ofertas!');
+
+
+<section class="servicios contenedor seccion">
+    <h2>Peluqueria</h2>
+        <ul class="lista-servicios clearfix">
+            <?php while( $peluqueria = $resultado->fetch_assoc() ) { ?> 
+                <li>
+                    <div class="servicio">
+                        <a class="peluqueria-info" href="#peluqueria<?php echo $peluqueria['peluqueria_id']; ?>">
+                            <img src="<?php echo $peluqueria['logo_peluqueria'] ?>">
+                            <p><?php echo $peluqueria['nombre_peluqueria'] ?></p>
+                        </a>
+                    </div>
+                </li>
+                <div style="display:none;">
+                    <div class="peluqueria-info" id="peluqueria<?php echo $peluqueria['peluqueria_id']; ?>">
+                        <img src="<?php echo $peluqueria['logo_peluqueria'] ?>">
+                        <h2><?php echo $peluqueria ['nombre_peluqueria'] ?></h2>
+                        <p><?php echo $peluqueria['descripcion_peluqueria']?></p>
+                    </div>
+                </div>
+            <?php } ?>
+        </ul>
+</section> 
