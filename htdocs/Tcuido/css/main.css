@@ -338,13 +338,13 @@ redes-sociales-footer {
     font-size: 1em;
 }
 
-.informacion-evento {
+.informacion-centro {
     text-align: center;
     color: black;
 }
 
 @media only screen and (min-width: 360px) {
-    .informacion-evento {
+    .informacion-centro {
         width: 70%;
         margin: auto;
         margin-top: 2.5rem;
@@ -364,7 +364,7 @@ redes-sociales-footer {
 }
 
 @media only screen and (min-width: 768px) {
-    .informacion-evento {
+    .informacion-centro {
         width: 70%;
         margin: auto;
         margin-top: 2.5rem;
@@ -395,7 +395,7 @@ redes-sociales-footer {
     }
 }
 
-.informacion-evento p {
+.informacion-centro p {
     margin: 0;
     display: inline;
     font-size: 20px;
@@ -403,20 +403,8 @@ redes-sociales-footer {
     font-weight: bold;
 }
 
-.informacion-evento p i {
+.informacion-centro p i {
     font-size: 2.4rem;
-}
-
-.informacion-evento .telefono i {
-    color: green;
-}
-
-.informacion-evento .ciudad i {
-    color: red;
-}
-
-.informacion-evento .horario i {
-    color: red;
 }
 
 .slogan {
