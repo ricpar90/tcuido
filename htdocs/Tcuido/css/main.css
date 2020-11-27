@@ -257,36 +257,8 @@ ul {
     }
 }
 
-
-/** Lettering **/
-
-
-/*
-p.slogan span {
-    position: relative;
-    text-shadow: 0 0 30px #08CEED;
-}
-*/
-
 h1.nombre-sitio {
     position: relative;
-    /*text-shadow: 0 0 30px #08CEED;*/
-    /*text-shadow: 0 0 30px rgb(27, 167, 189);*/
-}
-
-@media only screen and (min-width:992px) {
-    .char1 {}
-    /*
-    .char2 {}
-    .char3 {}
-    .char4 {}
-    .char5 {}
-    .char6 {}
-    .char7 {}
-    .char8 {}
-    .char9 {}
-    .char10 {}
-    */
 }
 
 
@@ -306,7 +278,7 @@ h1.nombre-sitio {
     text-align: center;
 }
 
-redes-sociales-footer {
+.redes-sociales-footer {
     text-align: center;
 }
 
@@ -405,18 +377,6 @@ redes-sociales-footer {
 
 .informacion-centro p i {
     font-size: 2.4rem;
-}
-
-.slogan {
-    text-transform: none!important;
-    font-family: 'Acme', sans-serif;
-    text-align: left;
-}
-
-.slogan span {
-    font-weight: bold;
-    font-size: 2em;
-    color: rgb(27, 167, 189);
 }
 
 h1.nombre-sitio {
