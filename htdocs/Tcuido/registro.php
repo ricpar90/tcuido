@@ -85,7 +85,7 @@
         <div id="eventos" class="eventos clearfix">
             <h3>Busca tu producto</h3>
             <div class="caja">
-                <div id="estetica" class="contenido-dia clearfix">
+                <div id="estetica" class="contenido-producto clearfix">
                     <h4>Estética</h4>
                     <div>
                         <p>Consulta 1</p>
@@ -113,7 +113,7 @@
                     </div>
                 </div>
                 <!--#estetica-->
-                <div id="opi" class="contenido-dia clearfix">
+                <div id="opi" class="contenido-producto clearfix">
                     <h4>OPI</h4>
                     <div>
                         <p>Consulta 1</p>
@@ -141,7 +141,7 @@
                     </div>
                 </div>
                 <!--#opi-->
-                <div id="peluqueria" class="contenido-dia clearfix">
+                <div id="peluqueria" class="contenido-producto clearfix">
                     <h4>Peluqería</h4>
                     <div>
                         <p>Consulta 1</p>
@@ -169,7 +169,7 @@
                     </div>
                 </div>
                 <!--#peluqueria-->
-                <div id="promociones" class="contenido-dia clearfix">
+                <div id="promociones" class="contenido-producto clearfix">
                     <h4>Promociones Web</h4>
                     <div>
                         <p>Consulta 1</p>
