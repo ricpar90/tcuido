@@ -22,7 +22,7 @@
         var apelido = document.getElementById('apelldio');
         var email = document.getElementById('email');
 
-        // Campos pases
+        // Campos coloracion
         var coloracion_intensa = document.getElementById('coloracion_intensa');
         var coloracion_luminosidad = document.getElementById('coloracion_luminosidad');
         var color_bienestar = document.getElementById('color_bienestar');
@@ -196,8 +196,8 @@ $(function() {
         $('.navegacion-principal').slideToggle();
     });
 
-    //Programa de conferencias
-    $('.programa-evento .info-curso:first').show();
+    //Programa de servicios
+    $('.programa-servicio .info-curso:first').show();
     $('.menu-programa a:first').addClass('activo');
     $('.menu-programa a').on('click', function() {
 
