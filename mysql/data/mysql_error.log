@@ -350,3 +350,33 @@ InnoDB: using atomic writes.
 2020-11-27 16:12:48 0 [Note] Plugin 'FEEDBACK' is disabled.
 2020-11-27 16:12:48 0 [Note] InnoDB: Buffer pool(s) load completed at 201127 16:12:48
 2020-11-27 16:12:48 0 [Note] Server socket created on IP: '::'.
+InnoDB: using atomic writes.
+2020-11-28 11:29:35 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-28 11:29:35 0 [Note] InnoDB: Uses event mutexes
+2020-11-28 11:29:35 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-28 11:29:35 0 [Note] InnoDB: Number of pools: 1
+2020-11-28 11:29:35 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-28 11:29:35 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2020-11-28 11:29:35 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-28 11:29:35 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=710935
+2020-11-28 11:29:36 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-28 11:29:36 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-28 11:29:36 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-28 11:29:36 0 [Note] InnoDB: Setting file 'C:\xampp\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-28 11:29:36 0 [Note] InnoDB: File 'C:\xampp\mysql\data\ibtmp1' size is now 12 MB.
+2020-11-28 11:29:36 0 [Note] InnoDB: Waiting for purge to start
+2020-11-28 11:29:36 0 [Note] InnoDB: Waiting for purge to start
+2020-11-28 11:29:36 0 [Note] InnoDB: Waiting for purge to start
+2020-11-28 11:29:37 0 [Note] InnoDB: Waiting for purge to start
+2020-11-28 11:29:37 0 [Note] InnoDB: Waiting for purge to start
+2020-11-28 11:29:37 0 [Note] InnoDB: Waiting for purge to start
+2020-11-28 11:29:37 0 [Note] InnoDB: Waiting for purge to start
+2020-11-28 11:29:37 0 [Note] InnoDB: Waiting for purge to start
+2020-11-28 11:29:37 0 [Note] InnoDB: Waiting for purge to start
+2020-11-28 11:29:37 0 [Note] InnoDB: Waiting for purge to start
+2020-11-28 11:29:37 0 [Note] InnoDB: Waiting for purge to start
+2020-11-28 11:29:37 0 [Note] InnoDB: 10.4.14 started; log sequence number 710944; transaction id 1540
+2020-11-28 11:29:38 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\mysql\data\ib_buffer_pool
+2020-11-28 11:29:38 0 [Note] InnoDB: Buffer pool(s) load completed at 201128 11:29:38
+2020-11-28 11:29:38 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-28 11:29:38 0 [Note] Server socket created on IP: '::'.
