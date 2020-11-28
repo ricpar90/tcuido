@@ -367,18 +367,6 @@ h1.nombre-sitio {
     }
 }
 
-.informacion-centro p {
-    margin: 0;
-    display: inline;
-    font-size: 20px;
-    text-transform: uppercase;
-    font-weight: bold;
-}
-
-.informacion-centro p i {
-    font-size: 2.4rem;
-}
-
 h1.nombre-sitio {
     /*font-family: 'PT Sans', sans-serif;*/
     font-family: 'Lobster', cursive;
@@ -546,20 +534,20 @@ div.contenedor-img {
     width: 100%;
 }
 
-.programa-evento {
+.programa-servicio {
     background-color: rgba(255, 255, 255, .8);
     padding: 15px;
     margin-top: 80px;
 }
 
 @media(min-width: 768px) {
-    .programa-evento {
+    .programa-servicio {
         width: 70%
     }
 }
 
 @media(min-width: 992px) {
-    .programa-evento {
+    .programa-servicio {
         width: 50%;
     }
 }
@@ -608,7 +596,7 @@ nav.menu-programa a.activo::after {
 }
 
 .menu-programa a i,
-.detalle-evento p i {
+.detalle-servicio p i {
     color: rgb(8, 69, 237);
     font-size: 1.6em;
     margin-right: 10px;
@@ -618,17 +606,17 @@ div.ocultar {
     display: none;
 }
 
-.detalle-evento {
+.detalle-servicio {
     margin-top: 20px;
     border-bottom: 1px solid black;
     padding: 0 20px;
 }
 
-.detalle-evento:nth-child(2) {
+.detalle-servicio:nth-child(2) {
     border: none;
 }
 
-.detalle-evento {
+.detalle-servicio {
     margin-bottom: 20px;
     font-size: 20px;
 }
@@ -1043,32 +1031,32 @@ div.paquetes .tabla-precio input {
     display: block;
 }
 
-.contenido-dia {
+.contenido-producto {
     padding: 20px;
     display: none;
 }
 
 @media only screen and (min-width: 768px) {
-    .contenido-dia>div {
+    .contenido-producto>div {
         float: left;
         width: 33.3%;
     }
 }
 
-.contenido-dia>div p {
+.contenido-producto>div p {
     text-align: left;
 }
 
-.contenido-dia>div label {
+.contenido-producto>div label {
     display: block;
     margin-bottom: 10px;
 }
 
-.contenido-dia>div input {
+.contenido-producto>div input {
     margin-right: 10px;
 }
 
-.contenido-dia>div label price {
+.contenido-producto>div label price {
     color: #fe4918;
     font-weight: bold;
 }
