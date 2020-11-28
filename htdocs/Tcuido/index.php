@@ -16,7 +16,7 @@
         </div>
         <div class="contenido-programa">
             <div class="contenedor">
-                <div class="programa-evento">
+                <div class="programa-servicio">
                     <h2>Servicios</h2>
                     <?php
                         try{
@@ -52,14 +52,14 @@
                     ?>
 
                     <div id="masajes" class="info-curso ocultar clearflix">
-                        <div class="detalle-evento">
+                        <div class="detalle-servicio">
                             <h3>Masaje relajante</h3>
                             <p>Clásico, Suave y Equilibrado.</p>
                             <p><i class="far fa-clock" aria-hidden="true"></i>Individual</p>
                             <p><i class="fas fa-hourglass-start" aria-hidden="true"></i>45m</p>
                             <p><i class="fas fa-euro-sign" aria-hidden="true"></i>49</p>
                         </div>
-                        <div class="detalle-evento">
+                        <div class="detalle-servicio">
                             <h3>Masaje Descontracturante</h3>
                             <p>Energético, Fuerte y Recuperador.</p>
                             <p><i class="far fa-clock" aria-hidden="true"></i>Pareja</p>
@@ -71,13 +71,13 @@
 
                     <!--masajes-->
                     <div id="rituales" class="info-curso ocultar clearflix">
-                        <div class="detalle-evento">
+                        <div class="detalle-servicio">
                             <h3>Ritual de belleza</h3>
                             <p><i class="far fa-clock" aria-hidden="true"></i>Individual</p>
                             <p><i class="fas fa-hourglass-start" aria-hidden="true"></i>50m</p>
                             <p><i class="fas fa-euro-sign" aria-hidden="true"></i></i>79</p>
                         </div>
-                        <div class="detalle-evento">
+                        <div class="detalle-servicio">
                             <h3>Ritual Chocolaterapia</h3>
                             <p><i class="far fa-clock" aria-hidden="true"></i>Pareja</p>
                             <p><i class="fas fa-hourglass-start" aria-hidden="true"></i>30m</p>
@@ -87,13 +87,13 @@
                     </div>
                     <!--rituales-->
                     <div id="circuitos" class="info-curso ocultar clearflix">
-                        <div class="detalle-evento">
+                        <div class="detalle-servicio">
                             <h3>Circuito Relax</h3>
                             <p><i class="far fa-clock" aria-hidden="true"></i>Individual</p>
                             <p><i class="fas fa-hourglass-start" aria-hidden="true"></i>60m</p>
                             <p><i class="fas fa-euro-sign" aria-hidden="true"></i></i>69</p>
                         </div>
-                        <div class="detalle-evento">
+                        <div class="detalle-servicio">
                             <h3>Circuito Oriental</h3>
                             <p><i class="far fa-clock" aria-hidden="true"></i>Pareja</p>
                             <p><i class="fas fa-hourglass-start" aria-hidden="true"></i>25m</p>
@@ -111,13 +111,10 @@
     </section>
     <!-- programa-->
     
-    <!--
-    <section class="servicios contenedor seccion">
-    </section>
-
-    -->
+  
     <?php include_once 'includes/templates/peluqueria.php'; ?> 
-
+      
+    <!--
     <div class="contador parallax">
         <div class="contenedor">
             <ul class="resumen-evento clearfix">
@@ -133,7 +130,7 @@
             </ul>
         </div>
     </div>
-
+    -->
 
     <section class="precios seccion">
         <h2>Precios</h2>
