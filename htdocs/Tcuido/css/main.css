@@ -430,7 +430,6 @@ h1.nombre-sitio {
 @media(min-width: 768px) {
     .logo {
         width: 29%;
-        /*float: left;*/
     }
 }
 
@@ -460,13 +459,6 @@ h1.nombre-sitio {
     color: black;
 }
 
-
-/*
-.navegacion-principal a:last-child {
-    color: black;
-}
-*/
-
 @media(min-width: 992px) {
     .navegacion-principal {
         font-size: 1.5em;
@@ -481,13 +473,15 @@ h1.nombre-sitio {
         display: block;
     }
     .navegacion-principal a {
-        /*margin-right: 4px;*/
         padding: 20px 20px;
         width: auto;
         text-align: center;
         margin: 0 10px 0 0;
     }
 }
+
+
+/* Menú móvil */
 
 .menu-movil {
     width: 60px;
@@ -515,7 +509,7 @@ h1.nombre-sitio {
 }
 
 
-/** Masajes **/
+/** Servicios **/
 
 section.programa {
     position: relative;
@@ -708,6 +702,8 @@ div.servicio:hover img {
     content: '';
 }
 
+
+/*
 .resumen-evento {
     position: relative;
     padding: 120px 0;
@@ -727,6 +723,7 @@ div.servicio:hover img {
         width: 25%;
     }
 }
+*/
 
 .numero {
     color: #08CEED;
@@ -734,6 +731,9 @@ div.servicio:hover img {
     font-size: 4em;
     margin: 0 0 10px 0;
 }
+
+
+/* Tabla de precios */
 
 ul.lista-precios>li {
     padding: 10px;
@@ -792,6 +792,9 @@ ul.lista-precios>li {
 .mapa {
     height: 420px;
 }
+
+
+/* Consejos */
 
 .consejos {
     padding-bottom: 20px;
@@ -1119,9 +1122,9 @@ input[disabled].button {
 }
 
 
-/** Galeria **/
+/** Servicios **/
 
-div.galeria h3 {
+div.menu_servicios h3 {
     background-color: blue;
     clear: both;
     color: white;
@@ -1130,9 +1133,9 @@ div.galeria h3 {
 }
 
 
-/** Instalaciones /**/
+/** Servicios /**/
 
-div.galeria::after {
+div.menu_servicios::after {
     clear: both;
     display: block;
     content: '';
