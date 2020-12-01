@@ -17,7 +17,7 @@
         }
     ?>
 
-    <div class="galeria">
+    <div class="menu_servicios">
         <?php
             $galeria= array();
             while( $servicios = $resultado->fetch_assoc() ){ 
