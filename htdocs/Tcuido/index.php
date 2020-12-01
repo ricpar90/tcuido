@@ -1,6 +1,5 @@
 <?php include_once 'includes/templates/header.php'; ?>
 
-    <!--barra-->
     <section class="seccion contenedor">
         <h2>T - CUIDO somos tu clínica de estética y bienestar en Betanzos</h2>
         <p>Con más de 15 años de experiencia en el sector ofrecemos servicios con las técnicas más avanzadas del mercado unidas a los mejores productos de alta cosmética ofreciendo a nuestros clientes soluciones que funcionan,empezando por nuestro diagnóstico
@@ -12,7 +11,7 @@
     
     <section class="programa">
         <div class="contenedor-img">
-            <img src="img/fondo.jpg" alt="">  
+            <img src="img/fondo.jpg" alt="centro-estetica">  
         </div>
         <div class="contenido-programa">
             <div class="contenedor">
@@ -103,7 +102,7 @@
                     </div>
                     <!--circuitos-->
                 </div>
-                <!-- programa evento -->
+                <!-- programa servicio  -->
             </div>
             <!-- contenedor -->
         </div>
@@ -117,7 +116,7 @@
     <!--
     <div class="contador parallax">
         <div class="contenedor">
-            <ul class="resumen-evento clearfix">
+            <ul class="resumen-servicio clearfix">
                 <li>
                     <p class="numero"> </p> Empleados </li>
                 <li>
