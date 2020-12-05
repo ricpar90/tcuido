@@ -349,8 +349,8 @@ h1.nombre-sitio {
     }
     .redes-sociales-footer a {
         color: black;
-        font-size: 2em;
-        margin-right: 20px;
+        font-size: 2.5em;
+        margin-right: 15px;
         text-decoration: none;
     }
     .redes-sociales a:last-child {
@@ -360,10 +360,10 @@ h1.nombre-sitio {
         font-size: 2em;
     }
     .redes-sociales-footer a:last-child {
-        margin-right: 1;
+        margin-right: 0.5;
         color: green;
         font-weight: bold;
-        font-size: 1em;
+        font-size: 1.5em;
     }
 }
 
