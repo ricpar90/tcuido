@@ -41,6 +41,8 @@
         var limpiezaCutis = document.getElementById('limpiezaCutis');
         var esteteticaCorporal = document.getElementById('esteteticaCorporal');
 
+        botonRegistro.disabled = true;
+
         if (document.getElementById('calcular')) {
 
             calcular.addEventListener('click', calcularMontos);
@@ -132,6 +134,8 @@
 
                 suma.innerHTML = totalPagar.toFixed(2) + " €";
 
+                botonRegistro.disabled = false;
+                document.getElementById('total_pedido').value = totalPagar;
             }
         }
 
@@ -227,8 +231,9 @@ $(function() {
     //Colorbox
 
     $('.estetica-info').colorbox({ inline: true, width: "50 % " });
-
     /*$('.peluqueria-info').colorbox({ inline: true, width: "50 % " });*/
+
+
 
 
 });
