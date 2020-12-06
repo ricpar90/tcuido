@@ -691,19 +691,17 @@ div.servicio:hover img {
     height: auto;
 }
 
-/ .contador:before {
-    background-image: url(../img/betanzos.jpeg);
+.contador:before {
+    background-image: url(../img/betanzos.jpg);
     content: '';
 }
 
-
-/*
-.resumen-evento {
+.resumen-servicio {
     position: relative;
     padding: 120px 0;
 }
 
-.resumen-evento li {
+.resumen-servicio li {
     width: 50%;
     float: left;
     text-align: center;
@@ -713,11 +711,10 @@ div.servicio:hover img {
 }
 
 @media(min-width: 768px) {
-    .resumen-evento li {
+    .resumen-servicio li {
         width: 25%;
     }
 }
-*/
 
 .numero {
     color: #08CEED;
@@ -1171,6 +1168,10 @@ div.cat {
 
 div.cboxElement {
     padding: 20px!important;
+    text-align: center;
+}
+
+.registrado {
     text-align: center;
 }
 

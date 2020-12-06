@@ -215,10 +215,10 @@ $(function() {
     });
 
     //Animaciones para los numeros
-    $('.resumen-evento li:nth-child(1) p').animateNumber({ number: 6 }, 3000);
-    $('.resumen-evento li:nth-child(2) p').animateNumber({ number: 10 }, 3000);
-    $('.resumen-evento li:nth-child(3) p').animateNumber({ number: 20 }, 3000);
-    $('.resumen-evento li:nth-child(4) p').animateNumber({ number: 2 }, 3000);
+    $('.resumen-servicio li:nth-child(1) p').animateNumber({ number: 25 }, 3000);
+    $('.resumen-servicio li:nth-child(2) p').animateNumber({ number: 10 }, 3000);
+    $('.resumen-servicio li:nth-child(3) p').animateNumber({ number: 2002 }, 3000);
+    $('.resumen-servicio li:nth-child(4) p').animateNumber({ number: 6 }, 3000);
 
     //Cuenta regresiva
     $('.cuenta-regresiva').countdown('2021/01/07 09:00:00', function(event) {

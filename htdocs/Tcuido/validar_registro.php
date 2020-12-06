@@ -43,7 +43,7 @@
         endif;
     endif; ?>
 
-
+    </div>
 </section>   
 
 <?php include_once 'includes/templates/footer.php'; ?>

@@ -113,24 +113,22 @@
   
     <?php include_once 'includes/templates/peluqueria.php'; ?> 
       
-    <!--
+    
+    <section class="seccion">
+        <h2>Fecha de inauguracón</h2>
+    </section>
     <div class="contador parallax">
         <div class="contenedor">
             <ul class="resumen-servicio clearfix">
-                <li>
-                    <p class="numero"> </p> Empleados </li>
-                <li>
-                    <p class="numero"> </p> Centros </li>
-                <li>
-                    <p class="numero"> </p> Cursos </li>
-                <li>
-                    <p class="numero"> </p> Rebajas </li>
-
+                <li><p class="numero"> </p> Dia </li>
+                <li><p class="numero"> </p> Mes </li>
+                <li><p class="numero"> </p> Año </li>
+                <li><p class="numero"> </p> Empleados </li>
             </ul>
         </div>
-    </div>
-    -->
+    </div>           
 
+    
     <section class="precios seccion">
         <h2>Precios</h2>
         <div class="contenedor">
