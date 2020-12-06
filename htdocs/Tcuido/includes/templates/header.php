@@ -65,8 +65,8 @@
                 <span></span>
             </div>
             <nav class="navegacion-principal clearfix">
-                <a href="instalaciones.php">Instalaciones</a>  
-                <a href="registro.php">Registro</a>
+                <a href="instalaciones.php">Galería</a>  
+                <a href="registro.php">Cita On-line</a>
                 <a href="servicios.php">Servicios</a>
                 <a href="estetica.php">Estética</a>
             </nav>
