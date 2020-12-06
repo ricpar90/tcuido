@@ -187,35 +187,39 @@
     </div>
 
     <section class="section">
-        <h2>Consejos</h2>
+        <h2>Blog</h2>
         <div class="consejos contenedor clearfix">
             <div class="consejo">
                 <blockquote>
-                    <p>Si tu hijo o hija se ha empeñado en que quiere el pelo largo, hay que tener una serie de medidas en la cabeza para que pueda cumplir su objetivo ya que darles la oportunidad de que lleven el pelo como quieren les dará seguridad, autonomía
-                        y desarrollo de su propia personalidad.</p>
+                    <p>¿Qué es el maskné? El maskné es una de las afecciones más comunes actualmente, el uso prolongado, el roce y la falta de oxigenación hacen que estén apareciendo granitos incluso en pieles que nunca han sufrido acné.
+                    Al llevar el rostro cubierto, la piel oxigena peor y el rozamiento continuado hacen que aumente el riesgo de infección por bacterias propias de nuestra dermis, los poros se taponan y aparecen granitos y comedones.  </p>
                     <footer class="info-consejo clearfix">
-                       <img src="img/testimonial.jpg" alt="">
-                        <cite>Virginia Carmona <span>Gerente</span></cite>
+                       <img src="img/blog1.jpg" alt="">
+                        <cite>Sandra Oneto <span>Octubre 2020</span></cite>
                     </footer>
                 </blockquote>
             </div>
 
             <div class="consejo">
                 <blockquote>
-                    <p>Hay que tener en cuenta el diagnostico previo antes de realizar cualquier servicio, ya que hay resolverán todas las dudas tanto de precio como de los servicios que realmente se quieran realizar. Teniendo en cuenta que no todas las peluquerías realizan este tipo de asesoramiento personalizado y gratuito..</p>
+                    <p>En T-cuido nos encanta el cuidado de la piel y por ello recientemente hemos incluido SKIN SMART DIAGNOSIS de Skeyndor. Una microcámara que mide diferentes parámetros (hidratación, sebo, arrugas...) y nos ayudará a elegir el mejor tratamiento para tu piel y la rutina facial más adecuada.
+                    Un buen diagnóstico es fundamental para conseguir una piel sana, equilibrada e hidratada. 
+                    </p>
                     <footer class="info-consejo clearfix">
-                        <img src="img/testimonial.jpg" alt="">
-                        <cite>Laura Pardo <span>Gerente</span></cite>
+                        <img src="img/blog2.jpg" alt="">
+                        <cite>Sandra Oneto <span>Junio 2020</span></cite>
                     </footer>
                 </blockquote>
             </div>
 
             <div class="consejo">
                 <blockquote>
-                    <p>Servicios, salones que estén actualizados en las ultimas tendencias, expertos en color y con un abanico amplio de varios servicios complementarios, donde siempre puedas elegir y disfrutar de tus necesidades.</p>
+                    <p>Tras la exposición solar es muy importante renovar nuestra piel. El sol, cloro, salitre, sudor y a este año le sumamos el uso de la mascarilla, hacen que nuestra piel no luzca como debería. Por eso ahora es un buen momento para hacerte un tratamiento de cabina para regenerar, hidratar tu piel e igualar el tono.
+                    Las pieles sensibles se caracterizan por sufrir más que ninguna otra. Por mucho cuidado que hayas tenido durante los meses pasados, es normal que con el cambio de estación notes mucho más que antes que tu piel reaccione, se irrite y, en definitiva, sufra.
+                    </p>
                     <footer class="info-consejo clearfix">
-                        <img src="img/testimonial.jpg" alt="">
-                        <cite>Antía García <span>Gerente</span></cite>
+                        <img src="img/blog3.jpg" alt="">
+                        <cite>Sandra Oneto <span>Agosto 2020</span></cite>
                     </footer>
                 </blockquote>
             </div>
