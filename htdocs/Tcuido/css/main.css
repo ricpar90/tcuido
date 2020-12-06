@@ -368,17 +368,13 @@ h1.nombre-sitio {
 }
 
 h1.nombre-sitio {
-    /*font-family: 'PT Sans', sans-serif;*/
     font-family: 'Lobster', cursive;
     font-size: 5.9vw;
-    /*text-transform: uppercase;*/
-    /*color: blue;*/
     color: rgb(27, 167, 189);
 }
 
 @media(min-width: 360px) {
     h1.nombre-sitio {
-        /*font-size: 11.5vw;*/
         font-size: 10vw;
         margin: 0;
         line-height: 1;
@@ -387,7 +383,6 @@ h1.nombre-sitio {
 
 @media(min-width: 768px) {
     h1.nombre-sitio {
-        /*font-size: 11.5vw;*/
         font-size: 5vw;
         margin: 0;
         line-height: 1;
@@ -696,9 +691,8 @@ div.servicio:hover img {
     height: auto;
 }
 
-.contador:before {
+/ .contador:before {
     background-image: url(../img/betanzos.jpeg);
-    /*background-color: rgb(27, 167, 189);*/
     content: '';
 }
 
@@ -876,7 +870,7 @@ footer.info-consejo img {
 }
 
 .newsletter::before {
-    background-image: url(../img/bg-newsletter.jpeg);
+    background-image: url(../img/bg-newsletter.jpg);
     content: '';
 }
 
@@ -1059,8 +1053,8 @@ div.paquetes .tabla-precio input {
     margin-right: 10px;
 }
 
-.contenido-producto>div label price {
-    color: #fe4918;
+.contenido-producto>div label a {
+    color: rgb(8, 69, 237);
     font-weight: bold;
 }
 
