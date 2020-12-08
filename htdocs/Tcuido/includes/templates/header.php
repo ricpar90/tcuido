@@ -33,25 +33,6 @@
 </head>
 
 <body class="<?php echo $pagina; ?>">
-    <header class="site-header">
-        <div class="hero">
-            <div class="contenido-header">
-                <nav class="redes-sociales">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-youtube"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-whatsapp"></i>  981 67 30 61</a>
-                </nav>
-                <div class="informacion-centro">
-                    <div class="clearfix">
-                    </div>
-                    <h1 class="nombre-sitio">Centro de estética en Betanzos</h1>
-                </div>
-            </div>
-        </div>
-    </header>
-
     <div class="barra">
         <div class="contenedor clearfix">
             <div class="logo">
@@ -73,3 +54,23 @@
         </div>
         <!-- contenedor -->
     </div>
+    <header class="site-header">
+        <div class="hero">
+            <div class="contenido-header">
+                <nav class="redes-sociales">
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-youtube"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-whatsapp"></i>  981 67 30 61</a>
+                </nav>
+                <div class="informacion-centro">
+                    <div class="clearfix">
+                    </div>
+                    <h1 class="nombre-sitio">Centro de estética en Betanzos</h1>
+                </div>
+            </div>
+        </div>
+    </header>
+
+   

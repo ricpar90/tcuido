@@ -19,7 +19,7 @@
 
         // campos datos usuarios
         var nombre = document.getElementById('nombre');
-        var apelido = document.getElementById('apelldio');
+        var apelido = document.getElementById('apelido');
         var email = document.getElementById('email');
 
         // Campos coloracion

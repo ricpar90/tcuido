@@ -252,7 +252,7 @@ ul {
 
 @media(min-width: 992px) {
     .hero {
-        height: 87vh;
+        height: 85vh;
         background-size: cover;
     }
 }
